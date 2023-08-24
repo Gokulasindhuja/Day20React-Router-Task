@@ -11,27 +11,21 @@ const Services = () => {
           <div className="light">
             <h5>Website Design</h5>
             <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus
-              mi augue, viverra sit amet ultricies at, vulputate id lorem. Nulla
-              facilisi.
+              This HTML course for web developers provides a solid overview for developers, from novice to expert level HTML.
             </p>
             <p>Pricing: $1,000 - $3,000</p>
           </div>
           <div className="light">
             <h5>Website Maintenance</h5>
             <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus
-              mi augue, viverra sit amet ultricies at, vulputate id lorem. Nulla
-              facilisi.
+              An evergreen CSS course and reference to level up your web styling expertise.
             </p>
             <p>Pricing: $250 per month</p>
           </div>
           <div className="light">
             <h5>Website Hosting</h5>
             <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus
-              mi augue, viverra sit amet ultricies at, vulputate id lorem. Nulla
-              facilisi.
+              Graphic Design is the process of creating visually appealing content that can convey a message, story, or concept. Students master designing logos, cover pages, thumbnails, and banners by studying a Graphic Design course.  
             </p>
             <p>Pricing: $25 per month</p>
           </div>
